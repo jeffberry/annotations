@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective/annotations",
+    "name": "jeffberry/annotations",
     "description": "Route Annotations for The Laravel Framework.",
     "keywords": ["framework", "laravel", "annotations"],
     "license": "MIT",
